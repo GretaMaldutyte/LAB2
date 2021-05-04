@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LAB2</string>
+    <string name="btn_calculate_caption">Calculate</string>
+    <string name="word_selection">Words</string>
+    <string name="char_selection">Char</string>
+    <string-array name="calculation_options">
+        <item>Words</item>
+        <item>Characters</item>
+    </string-array>
+</resources>
